@@ -1,0 +1,13 @@
+{
+  "name": "evorpress",
+  "version": "0.0.0",
+  "description": "This is just a boiler plate for expressjs app.",
+  "main": "index.js",
+  "repository": "git@github.com:ryuk-09/evorpress.git",
+  "author": "Ryuk09",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
